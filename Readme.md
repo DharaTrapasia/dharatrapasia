@@ -16,7 +16,7 @@
 - 🌱 Working with PHP, LARAVEL, REACT, MySQL, HTML, CSS, JavaScript and UI/UX 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2024 goals: Make project and contribute to Open Source
-- 🔭 I just launched my portfolio: **[https://dharatrapasia.github.io/](https://dharatrapsia.github.io)**
+- 🔭 I just launched my portfolio: **[https://dharatrapasia.github.io/](https://dharatrapasia.github.io)**
 
 <br/>
 
