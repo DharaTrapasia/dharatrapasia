@@ -1,6 +1,6 @@
 # Hi, Myself <a href="https://dharatrapasia.github.io" target="_blank">Dhara Trapasia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Front-End Web Developer, Designer and Life-Long Learner!
+## I'm a Full-Stack Web Developer, Designer and Life-Long Learner!
 
 <div align="left">
   <a href="https://dharatrapasia.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
